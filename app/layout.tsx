@@ -8,8 +8,8 @@ const geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-mono-face' 
 const dmSerif = DM_Serif_Display({ subsets: ['latin'], weight: '400', variable: '--font-display' })
 
 export const metadata: Metadata = {
-  title: 'Miette — Handmade Chocolate, Made Personal',
-  description: 'Small-batch handmade chocolates for ordinary days and very good reasons.',
+  title: 'Cocoa Bloom — Handmade Chocolate, Made Wild',
+  description: 'Botanical, small-batch handmade chocolates for ordinary days and very good reasons.',
   generator: 'v0.app',
 }
 
